@@ -91,4 +91,4 @@ Support this project by becoming a sponsor.
 
 ## Acknowledgments
 
-Thanks to https://www.reflectorbital.com/team
+Thanks for inspiration to https://www.reflectorbital.com/
