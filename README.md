@@ -1,4 +1,4 @@
-<h1 align="center"> SunSpot </h1> <br>
+<h1 align="center"> ProjectName </h1> <br>
 <p align="center">
   <a href="">
     <img alt="SunSpot" title="SunSpot" src="logo.png" width="450">
