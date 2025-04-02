@@ -21,19 +21,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Technology](#technology)
-- [Team](#team)
-- [Sponsors](#sponsors)
-- [Acknowledgments](#acknowledgments)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Introduction
+## Введение
 
 Свет Солнца содержит в 24 трлн раз больше энергии, чем человечество использует сегодня. Это неисчерпаемый источник.  
 Суть проекта - разработка технологии, которая обеспечит солнечным светом любую точку мира вне зависимости от времени года и суток.  
@@ -41,7 +29,7 @@
 
 <img src="https://s0.rbk.ru/v6_top_pics/resized/640xH/media/img/8/90/347250191359908.webp">  
 
-## Usage
+## Использование
 
 Выработку солнечной энергии нельзя поддержать или продлить, ведь Солнце скрывается ночью, в пасмурную погоду, и его меньше в зимнее время года.
 Если бы солнечный свет был доступен постоянно, это открыло бы для человечества бесконечную, недорогую и чистую энергию.  
@@ -49,7 +37,11 @@
 
 <img src="https://s0.rbk.ru/v6_top_pics/resized/640xH/media/img/5/07/347250191459075.webp">  
 
-## Team
+## Технология
+
+От одного майларового зеркала можно получить 500 Вт солнечной энергии на кв.м. отражателя. Площадь одного зеркала 9.9 X 9.9 м  
+
+## Команда
 
 * Руслан Арибжанов - Web-дизайнер  
 * Ойкин Даниил - CTO  
@@ -60,10 +52,10 @@
 * Матвей Толкачёв - инженер по производству  
 * Вячеслав Захаров - оптический инженер  
 
-## Sponsors
+## Спонсоры
 
-Support this project by becoming a sponsor.
+Поддержите наш проект чтобы стать спонсором
 
-## Acknowledgments
+## Благодарности
 
 Thanks for inspiration to https://www.reflectorbital.com/
