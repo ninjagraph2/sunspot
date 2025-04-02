@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="SunSpot" title="SunSpot" src="./img/logo.png" width="450">
+    <img alt="SunSpot" title="SunSpot" src="./img/logo.png" width="450" >
   </a>
 </p>
 
