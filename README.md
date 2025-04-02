@@ -41,6 +41,7 @@
 
 От одного майларового зеркала можно получить 500 Вт солнечной энергии на кв.м. отражателя. Площадь одного зеркала 9.9 X 9.9 м  
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reflectorbital.com%2Fenergy&psig=AOvVaw14xSJGn1mdQAmwQrcO1PI5&ust=1743658788430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODAgbLRuIwDFQAAAAAdAAAAABAP">  
 ## Команда
 
 * Руслан Арибжанов - Web-дизайнер  
