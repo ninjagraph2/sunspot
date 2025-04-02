@@ -20,6 +20,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -33,11 +34,13 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 Свет Солнца содержит в 24 трлн раз больше энергии, чем человечество использует сегодня. Это неисчерпаемый источник.  
 Суть проекта - разработка технологии, которая обеспечит солнечным светом любую точку мира вне зависимости от времени года и суток.  
 Планируется разместить искуственные спутники-зеркала на орбите Земли.
 
 <img src="https://s0.rbk.ru/v6_top_pics/resized/640xH/media/img/8/90/347250191359908.webp">  
+
 ## Usage
 
 Выработку солнечной энергии нельзя поддержать или продлить, ведь Солнце скрывается ночью, в пасмурную погоду, и его меньше в зимнее время года.
