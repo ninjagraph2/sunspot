@@ -38,10 +38,22 @@
 <img src="https://s0.rbk.ru/v6_top_pics/resized/640xH/media/img/5/07/347250191459075.webp">  
 
 ## Технология
+На орбиту будет выведено порядка 57 майларовых спутников-зеркал, площадью 9.9 Х 9.9 метров.
+Орбита проходит с севера на юг над полярными областями планеты на высоте 600км.
+От одного такого спутника можно получить 500 Вт солнечной энергии на кв.м. солнечной панели.
+Масса спутника ~16 кг.
+Диаметр луча до 100 метров.  
 
-От одного майларового зеркала можно получить 500 Вт солнечной энергии на кв.м. отражателя. Площадь одного зеркала 9.9 X 9.9 м  
+<h1>Краткая информация</h1>
+| Количество спутников    | 57           |
+|-------------------------|--------------|
+| Размеры спутника        | 9.9 х 9.9 м. |
+| Масса спутника          | ~16 кг.      |
+| Диаметр солнечного луча | до 100 м.    |
+| Выработка энергии       | 500 Вт       |  
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reflectorbital.com%2Fenergy&psig=AOvVaw14xSJGn1mdQAmwQrcO1PI5&ust=1743658788430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODAgbLRuIwDFQAAAAAdAAAAABAP">  
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reflectorbital.com%2Fenergy&psig=AOvVaw14xSJGn1mdQAmwQrcO1PI5&ust=1743658788430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODAgbLRuIwDFQAAAAAdAAAAABAP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.futuroprossimo.it%2F2024%2F08%2Freflect-orbital-sole-on-demand-anche-di-notte-con-specchi-orbitali%2F&psig=AOvVaw14xSJGn1mdQAmwQrcO1PI5&ust=1743658788430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODAgbLRuIwDFQAAAAAdAAAAABAZ)">  
+
 ## Команда
 
 * Руслан Арибжанов - Web-дизайнер  
