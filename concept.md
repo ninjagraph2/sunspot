@@ -116,7 +116,11 @@
 ### Внешние системы
                                   
                
-
+<p align="center">
+  <a href="">
+    <img alt="diagram12321" title="Внешние системы" src="./img/externalSystemsDiag.jpg" width="450" >
+  </a>
+</p>
 
                                 
 <p align="center">
