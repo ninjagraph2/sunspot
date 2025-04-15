@@ -167,7 +167,7 @@
                                 
 <p align="center">
   <a href="">
-    <img alt="ExternalSystems" title="Внешние системы" src="./img/logo.png" width="450" >
+    <img alt="ExternalSystems" title="Внешние системы" src="./img/externalSystemsDiag.jpg" width="450" >
   </a>
 </p>
 
