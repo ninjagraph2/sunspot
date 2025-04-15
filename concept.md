@@ -165,7 +165,11 @@
 
 
                                 
-**Сюда вставить картинку с диаграммой**
+<p align="center">
+  <a href="">
+    <img alt="ExternalSystems" title="Внешние системы" src="./img/logo.png" width="450" >
+  </a>
+</p>
 
 - Спутниковая сеть управления (NASA, SpaceX, ESA)
 - Платёжные системы (Stripe, PayPal)
