@@ -118,7 +118,7 @@
                
 <p align="center">
   <a href="">
-    <img alt="diagram12321" title="Внешние системы" src="./img/diagram12321.jpg" width="450" >
+    <img alt="ExternalSystems" title="Внешние системы" src="./img/diagram12321.jpg" width="450" >
   </a>
 </p>
 
