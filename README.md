@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   <img alt="SunSpot" title="SunSpot" src="./img/logo.png" width="450">
 
   <p>Sun in your pocket.</p>
@@ -7,7 +7,7 @@
       <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
       <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </div>
-</center>
+</div>
 
 ---  
 
